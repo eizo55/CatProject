@@ -1,0 +1,49 @@
+#feline-fundamentals {
+  margin: 3rem auto;
+  padding: 2rem;
+  border-radius: 6px;
+  background-color: #ffd6e0; /* Soft light pink */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+#feline-fundamentals h2 {
+  text-align: left;
+  color: #b02252; /* Darker pink */
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+#feline-fundamentals ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#feline-fundamentals li {
+  width: 10rem;
+  text-align: center;
+  background-color: #f78fb3; /* Soft pink */
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+#feline-fundamentals li img {
+  height: 4rem;
+  width: 6rem;
+  object-fit: contain;
+  border-radius: 6px; /* Soft edges for a friendly feel */
+}
+
+#feline-fundamentals li h3 {
+  margin: 0.5rem 0;
+  color: #b02252; /* Darker pink */
+}
+
+#feline-fundamentals li p {
+  font-size: 0.9rem;
+  color: #5a1e42; /* Dark pink text */
+}
