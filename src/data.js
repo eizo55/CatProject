@@ -6,10 +6,11 @@ import cat from "./assets/cat.png";
 import catFood from "./assets/catFood.png";
 import donutCat from "./assets/donutCat.png";
 import catBed from "./assets/catBed.png";
-
+import Ludwig from "./assets/Ludwig.png";
+import Cicek from "./assets/Cicek.png";
 export const FELINE_FUNDAMENTALS = [
   {
-    image: cat,
+    image: Ludwig,
     title: "Breeds",
     description:
       "From the sassy Siamese to the lazy British Shorthair—each breed has its quirks.",
@@ -51,7 +52,7 @@ export const EXAMPLES = {
     title: "Feline Mysteries",
     description:
       "Cats have a fascinating range of behaviors—kneading soft surfaces, purring when content, and sometimes knocking things over just for fun. They use body language and vocalizations to communicate with humans and other animals. Understanding their signals can help strengthen the bond between a cat and its owner.",
-    image: nuggetCat,
+    image: Cicek,
   },
   care: {
     title: "Cat Care Essentials",

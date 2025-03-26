@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { EXAMPLES } from "../data";
-import TabButton from "./TabButton";
+import { EXAMPLES } from "../../data";
+import TabButton from "../TabButton";
 import Section from "../Section";
 import "./ExamplesDesc.css";
 
